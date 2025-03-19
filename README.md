@@ -1,3 +1,5 @@
+[![Math Utility Project (CI included) | © 2025 by hq-nguyen](https://github.com/hq-nguyen/math-util-nb/actions/workflows/maven.yml/badge.svg)](https://github.com/hq-nguyen/math-util-nb/actions/workflows/maven.yml))
+
 # Software Development Practices in Java
 
 ## Test-Driven Development (TDD)
